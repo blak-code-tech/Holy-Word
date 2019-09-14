@@ -1,0 +1,74 @@
+<RCC>
+    <qresource prefix="/langs">
+        <file>Qml/Languages/All_Languages.qml</file>
+        <file>Qml/Languages/Arabic_Versions.qml</file>
+        <file>Qml/Languages/Chinese_Versions.qml</file>
+        <file>Qml/Languages/English_Versions.qml</file>
+        <file>Qml/Languages/Esperanto_Versions.qml</file>
+        <file>Qml/Languages/Finnish_Versions.qml</file>
+        <file>Qml/Languages/French_Versions.qml</file>
+        <file>Qml/Languages/German_Versions.qml</file>
+        <file>Qml/Languages/Greek_Version.qml</file>
+        <file>Qml/Languages/Korean_Versions.qml</file>
+        <file>Qml/Languages/Portuguese_Versions.qml</file>
+        <file>Qml/Languages/Romanian_Versions.qml</file>
+        <file>Qml/Languages/Russian_Versions.qml</file>
+        <file>Qml/Languages/Spanish_Versions.qml</file>
+        <file>Qml/Languages/Vietnamese_Versions.qml</file>
+    </qresource>
+    <qresource prefix="/versions">
+        <file>Qml/Versions_&amp;_Others/ACRF.qml</file>
+        <file>Qml/Versions_&amp;_Others/APEE.qml</file>
+        <file>Qml/Versions_&amp;_Others/Arabic.qml</file>
+        <file>Qml/Versions_&amp;_Others/ARIB.qml</file>
+        <file>Qml/Versions_&amp;_Others/CUV.qml</file>
+        <file>Qml/Versions_&amp;_Others/Esperanto.qml</file>
+        <file>Qml/Versions_&amp;_Others/FB.qml</file>
+        <file>Qml/Versions_&amp;_Others/Greek.qml</file>
+        <file>Qml/Versions_&amp;_Others/Highlight.qml</file>
+        <file>Qml/Versions_&amp;_Others/KJV.qml</file>
+        <file>Qml/Versions_&amp;_Others/Korean.qml</file>
+        <file>Qml/Versions_&amp;_Others/NCV.qml</file>
+        <file>Qml/Versions_&amp;_Others/NIV.qml</file>
+        <file>Qml/Versions_&amp;_Others/NIV.qml.autosave</file>
+        <file>Qml/Versions_&amp;_Others/NVI.qml</file>
+        <file>Qml/Versions_&amp;_Others/PR.qml</file>
+        <file>Qml/Versions_&amp;_Others/Romanian.qml</file>
+        <file>Qml/Versions_&amp;_Others/Russian.qml</file>
+        <file>Qml/Versions_&amp;_Others/RVR.qml</file>
+        <file>Qml/Versions_&amp;_Others/SCHLACHTER.qml</file>
+        <file>Qml/Versions_&amp;_Others/Vietnamese.qml</file>
+    </qresource>
+    <qresource prefix="/main">
+        <file>Qml/Launch.qml</file>
+        <file>Qml/Main.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>Qml/img/back.png</file>
+        <file>Qml/img/black_highlight.png</file>
+        <file>Qml/img/blue_highlight.png</file>
+        <file>Qml/img/bold.png</file>
+        <file>Qml/img/close.png</file>
+        <file>Qml/img/copy25.png</file>
+        <file>Qml/img/holy_bible.png</file>
+        <file>Qml/img/italic.png</file>
+        <file>Qml/img/like.png</file>
+        <file>Qml/img/like_clicked.png</file>
+        <file>Qml/img/menu.png</file>
+        <file>Qml/img/next.png</file>
+        <file>Qml/img/next_chapter.png</file>
+        <file>Qml/img/pen.png</file>
+        <file>Qml/img/pink_highlight.png</file>
+        <file>Qml/img/previous.png</file>
+        <file>Qml/img/previous_chapter.png</file>
+        <file>Qml/img/read_chapter.png</file>
+        <file>Qml/img/read25.png</file>
+        <file>Qml/img/red_highlight.png</file>
+        <file>Qml/img/shuffle.png</file>
+        <file>Qml/img/split_horizontal.png</file>
+        <file>Qml/img/split_vertical.png</file>
+        <file>Qml/img/stop.png</file>
+        <file>Qml/img/stop30.png</file>
+        <file>Qml/img/underline.png</file>
+    </qresource>
+</RCC>
